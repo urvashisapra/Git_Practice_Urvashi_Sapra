@@ -1,1 +1,2 @@
 Git is useful for tracking changes, collaborating, and version control
+Git branches allow parallel development without affecting the main codebase
